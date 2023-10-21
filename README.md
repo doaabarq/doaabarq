@@ -1,6 +1,8 @@
+
+![I am Data analyst ](https://github.com/doaabarq/doaabarq/blob/main/github-header-image.png)
 ### Hi there 👋, my name is Doaa Barqawi 
 #### I am Data analyst 
-![I am Data analyst ](https://github.com/doaabarq/doaabarq/blob/main/github-header-image.png)
+
 
 Experienced Business Analyst with a strong statistical background and Rice University Data Analytics certification. Skilled in data-driven strategies, project management, market research, and product analysis. Excited to contribute to your team.
 
