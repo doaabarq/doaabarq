@@ -1,5 +1,5 @@
 
-![I am Data analyst ](https://github.com/doaabarq/doaabarq/blob/main/github-header-image.png)
+![I am Data/Business analyst ](https://github.com/doaabarq/doaabarq/blob/main/github-header-image.png)
 ### Hi there 👋, my name is Doaa Barqawi 
 #### I am Data analyst 
 
